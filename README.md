@@ -1,5 +1,4 @@
 # belajar-kolaborasi
-
-- Angkatan 2022
-- Angkatan 2023
-- Angkatan 2024
+Belajar GitHub di Dicoding sangat menyenangkan. <br>
+Mendokumentasikan dengan GitHUb menajdi lebih mudah
+Manajemen kode menjadi lebih mudah berkat GitHub
